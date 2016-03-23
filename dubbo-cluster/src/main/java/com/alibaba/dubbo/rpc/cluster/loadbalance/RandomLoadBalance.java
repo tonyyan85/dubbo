@@ -23,6 +23,7 @@ import com.alibaba.dubbo.rpc.Invocation;
 import com.alibaba.dubbo.rpc.Invoker;
 
 /**
+ * 负载均衡
  * random load balance.
  *
  * @author qianlei
